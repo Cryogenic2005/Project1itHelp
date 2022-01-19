@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Project 1 for iT something</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Một trang web được sử dụng làm bài tập cho The itHelp Project</description>
+	<lastBuildDate>Wed, 19 Jan 2022 08:55:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<item>
+		<title>Erling Haaland</title>
+		<link>./../../../2022/01/19/erling-haaland/index.html</link>
+					<comments>./../../../2022/01/19/erling-haaland/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Project1]]></dc:creator>
+		<pubDate>Wed, 19 Jan 2022 07:21:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=86</guid>
+
+					<description><![CDATA[Erling Braut Haaland&#160;(né&#160;Håland,&#160;[ˈhòːlɑn]; sinh ngày 21 tháng 7 năm 2000) là một&#160;cầu thủ bóng đá&#160;người Na Uy hiện đang thi đấu ở vị trí&#160;tiền đạo&#160;cho câu lạc bộ&#160;Borussia Dortmund&#160;và&#160;đội tuyển bóng đá quốc gia Na Uy. Là một tay săn bàn cừ khôi, Haaland được công nhận nhờ tốc độ, tinh thần thi đấu cao [&#8230;]]]></description>
+		
+					<wfw:commentRss>./../../../2022/01/19/erling-haaland/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Adolf Hitler</title>
+		<link>./../../../2021/01/19/adolf-hitler/index.html</link>
+					<comments>./../../../2021/01/19/adolf-hitler/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Project1]]></dc:creator>
+		<pubDate>Tue, 19 Jan 2021 07:29:02 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Adolf]]></category>
+		<category><![CDATA[war]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=92</guid>
+
+					<description><![CDATA[Adolf Hitler Adolf Hitler&#160;(tiếng Đức:&#160;[ˈadɔlf ˈhɪtlɐ]&#160; (&#160;nghe); 20 tháng 4 năm 1889&#160;– 30 tháng 4 năm 1945) là một&#160;chính khách&#160;người Đức,[a]&#160;nhà độc tài&#160;của&#160;Đức&#160;từ năm 1933 cho đến khi&#160;qua đời&#160;vào năm 1945. Tiến tới quyền lực với tư cách là chủ tịch&#160;Đảng Quốc Xã,[b]&#160;Hitler trở thành&#160;Thủ tướng Đức&#160;vào năm 1933 và sau đó là&#160;Führer&#160;(Lãnh tụ) vào [&#8230;]]]></description>
+		
+					<wfw:commentRss>./../../../2021/01/19/adolf-hitler/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://upload.wikimedia.org/wikipedia/commons/c/c9/GT_AH_AMS.ogg" length="24985" type="audio/ogg" />
+
+			</item>
+		<item>
+		<title>fsd</title>
+		<link>./../../../2020/01/19/fsd/index.html</link>
+					<comments>./../../../2020/01/19/fsd/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Project1]]></dc:creator>
+		<pubDate>Sun, 19 Jan 2020 07:42:53 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=99</guid>
+
+					<description><![CDATA[dsfsd]]></description>
+		
+					<wfw:commentRss>./../../../2020/01/19/fsd/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
